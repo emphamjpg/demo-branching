@@ -10,7 +10,7 @@ public class UnitTest1
 
     [Fact]
 
-    public void FalseisFalse()
+    public void FalseIsFalse()
     {
         Assert.False(true);
     }
