@@ -13,5 +13,6 @@ public class UnitTest1
     public void FalseIsFalse()
     {
         Assert.False(true);
+        Assert.Empty("");
     }
 }
